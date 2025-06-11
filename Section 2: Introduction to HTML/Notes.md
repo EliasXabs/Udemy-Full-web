@@ -25,3 +25,12 @@ It is used to set limits to each paragraph as well as helps screen readers split
 - < p>
 
 Lorem ipsum is a paragraph used to simulate actual paragraphs while testing a website
+
+## Void Elements
+Void elements are elements that forbids you from putting content into the tag.
+
+Void Elements:
+- < hr/>: Horizontal rule
+- < br/>: break or new line
+### Don'ts
+- Don't use the break lines to seperate the paragraphs
