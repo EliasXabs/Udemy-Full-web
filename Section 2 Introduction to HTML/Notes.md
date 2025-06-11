@@ -34,3 +34,6 @@ Void Elements:
 - < br/>: break or new line
 ### Don'ts
 - Don't use the break lines to seperate the paragraphs
+
+## Movie Ranking project
+<a href="./2.4 Movie Ranking Project/2.4 Movie Ranking Project/index.html">The final project of this section</a>
