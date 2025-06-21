@@ -36,4 +36,4 @@ The CSS selector is used to tell where the styling should apply
 The ID is unique per HTML page, unlike classes which can be repeated as many times on as my tags
 
 ### Colour Vocab Project
-<a href="./5.4 Color Vocab Project/index.html">
+<a href="./5.4 Color Vocab Project/index.html">Final project for this section</a>

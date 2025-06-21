@@ -46,4 +46,4 @@ You can change:
 pesticide is used to debug divs
 
 ## Motivation Meme project
-<a href="./6.4 Motivation Meme Project/index.html">
+<a href="./6.4 Motivation Meme Project/index.html">Final project for this section</a>
